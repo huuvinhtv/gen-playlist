@@ -1,0 +1,49 @@
+name: Sync Playlist to Gen-Playlist Repo
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Chạy mỗi 6 tiếng (tương ứng múi giờ VN)
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Engine Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Download Script
+        run: python download_playlist.py
+
+      - name: Push to Gen-Playlist Repo
+        env:
+          PAT_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          # Cấu hình Git
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          
+          # Clone repo đích (gen-playlist) vào một thư mục tạm
+          git clone https://x-access-token:${PAT_TOKEN}@github.com/huuvinhtv/gen-playlist.git target_repo
+          
+          # Di chuyển vào thư mục repo đích
+          cd target_repo
+          
+          # Kiểm tra xem nhánh 'm3u' đã tồn tại chưa, nếu chưa thì tạo mới
+          git checkout m3u || git checkout -b m3u
+          
+          # Copy file vừa tải từ thư mục gốc vào đây
+          cp ../playlist.m3u .
+          
+          # Commit và Push
+          git add playlist.m3u
+          git commit -m "Auto update playlist: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push origin m3u
