@@ -12,11 +12,11 @@ jobs:
       contents: write # Cấp quyền ghi để push nhánh mới
 
     steps:
-      # 1. Checkout repo (không fix cứng nhánh nữa)
+      # 1. Checkout repo (kéo toàn bộ lịch sử)
       - name: Checkout gen-playlist repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Quan trọng: Kéo toàn bộ lịch sử nhánh về để rẽ nhánh không bị lỗi
+          fetch-depth: 0 
 
       # 2. Checkout repo private chứa script
       - name: Checkout engine repo
@@ -38,12 +38,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # 5. Chạy script (Nó sẽ tạo ra file playlist.m3u)
+      # 5. Chạy script tạo ra file playlist.m3u
       - name: Run playlist engine
         run: |
           python engine/download_playlist.py
 
-      # 6. Xử lý Git: Tự tạo nhánh và Push
+      # 6. Xử lý Git: Tạm cất file, Checkout nhánh và Push
       - name: Commit and push generated playlist
         run: |
           git config user.name "github-actions"
@@ -52,19 +52,24 @@ jobs:
           # Xóa thư mục mã nguồn private
           rm -rf engine
           
-          # Kéo thông tin nhánh m3u từ server về (nếu nhánh đã tồn tại)
+          # Chuyển tạm file vừa tạo ra /tmp để Git không báo lỗi untracked khi checkout
+          mv playlist.m3u /tmp/playlist.m3u
+          
+          # Kéo thông tin nhánh m3u từ server về (nếu có)
           git fetch origin m3u || true
           
-          # Thử chuyển sang nhánh m3u. Nếu nhánh chưa có, tự động tạo mới (-b)
+          # Working tree đã sạch, chuyển nhánh hoặc tạo mới một cách an toàn
           git checkout m3u || git checkout -b m3u
           
-          # Cập nhật file m3u
+          # Đưa file m3u trở lại thư mục làm việc để chuẩn bị commit
+          mv /tmp/playlist.m3u ./playlist.m3u
+          
+          # Cập nhật file m3u vào staging
           git add playlist.m3u
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto update playlist"
-            # Lệnh push -u sẽ tự động thiết lập liên kết cho nhánh mới tạo
             git push -u origin m3u
           fi
