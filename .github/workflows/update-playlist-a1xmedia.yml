@@ -1,4 +1,4 @@
-name: Sync M3U Playlist
+name: Sync M3U A1xmedia Playlist
 
 on:
   schedule:
