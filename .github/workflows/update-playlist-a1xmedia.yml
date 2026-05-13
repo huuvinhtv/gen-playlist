@@ -43,28 +43,37 @@ jobs:
         run: |
           python engine/download_playlist_a1xmedia.py
 
-      # 6. Xử lý Git: Tự tạo nhánh và Push
+      # 6. Xử lý Git: Tự tạo nhánh và Push (ĐÃ FIX LỖI GIT)
       - name: Commit and push generated playlist A1xmedia
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
+          # Di chuyển file mới tạo ra thư mục cha tạm thời để không bị xung đột khi checkout
+          mv a1xmedia.m3u ../a1xmedia.m3u
+          
           # Xóa thư mục mã nguồn private
           rm -rf engine
           
-          # Kéo thông tin nhánh m3u từ server về (nếu nhánh đã tồn tại)
+          # Fetch thông tin nhánh m3u từ server về
           git fetch origin m3u || true
           
-          # Thử chuyển sang nhánh m3u. Nếu nhánh chưa có, tự động tạo mới (-b)
+          # Checkout sang nhánh m3u. Nếu chưa tồn tại thì tạo mới.
           git checkout m3u || git checkout -b m3u
           
-          # Cập nhật file m3u
+          # Đồng bộ lịch sử commit từ remote (phòng lỗi non-fast-forward)
+          git pull origin m3u --rebase || true
+          
+          # Đưa file m3u vừa sinh ra quay trở lại workspace (chép đè lên file cũ của nhánh)
+          mv ../a1xmedia.m3u ./a1xmedia.m3u
+          
+          # Cập nhật file vào Git
           git add a1xmedia.m3u
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto update playlist"
-            # Lệnh push -u sẽ tự động thiết lập liên kết cho nhánh mới tạo
+            # Push code lên nhánh m3u
             git push -u origin m3u
           fi
