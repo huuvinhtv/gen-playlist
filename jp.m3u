@@ -1,0 +1,38 @@
+#=================================
+# 📡 IPTV Jp Channels
+# 🕒 Last Updated: 2026-05-13 04:09:22 AM
+# 📺 Channels Count : 16
+#==================================
+#EXTM3U url-tvg="http://arva.netgenx.site/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png",NTV
+http://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png",ABC
+http://arva.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="jp16" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png",KBS
+http://arva.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png",MBS
+http://arva.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs19" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png",JSport 2
+http://arva.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png",NHK BS
+http://arva.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_15.png",NHK BS4K
+http://arva.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png",WOWOW Prime
+http://arva.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp99" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png",KNTV
+http://arva.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp78" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png",Music ON TV
+http://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp49" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png",NECO Ch
+http://arva.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp97" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",Pigoo NSFW
+http://arva.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp66" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png",Sport Live Plus
+http://arva.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp68" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png",TBS Channel 2
+http://arva.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp70" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
+http://arva.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="v_paradise" tvg-logo="https://xuanzi-storage.netgenx.site/",V Paradise NSFW
+http://arva.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
