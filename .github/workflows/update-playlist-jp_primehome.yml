@@ -68,7 +68,7 @@ jobs:
           mv ../jp_primehome.m3u ./jp_primehome.m3u
           
           # Cập nhật file vào Git
-          git add jp.m3u
+          git add jp_primehome.m3u
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
