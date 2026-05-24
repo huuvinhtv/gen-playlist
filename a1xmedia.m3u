@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-05-23 10:49:47 PM
-# 📺 Channels Count : 58
+# 🕒 Last Updated: 2026-05-24 06:56:49 AM
+# 📺 Channels Count : 59
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -14,6 +14,8 @@ https://xemzi.short.gy/1100002
 https://xemzi.short.gy/700008
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.ibb.co/mVwrvxMw/usa-network.png" group-title="A1xmedia - EPL",USA Network FHD
 https://xemzi.short.gy/1100020
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport 3 FHD
+https://xemzi.short.gy/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport 4 FHD
 https://xemzi.short.gy/140004
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport FHD
@@ -30,6 +32,8 @@ https://xemzi.short.gy/lovent4k
 https://xemzi.short.gy/9000013
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="A1xmedia - UHD | 4K",UK: Sky Sports Main Event UHD
 https://xemzi.short.gy/2000015
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.ibb.co/CxVDbJrS/nesn.png" group-title="A1xmedia - UHD | 4K",US: NESN UHD
+https://xemzi.short.gy/4000080
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.ibb.co/zTrX98R6/BBC-News.png" group-title="A1xmedia - UK Channels",BBC News FHD
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia - UK Channels",BBC One FHD
@@ -44,8 +48,6 @@ https://xemzi.short.gy/1000033
 https://xemzi.short.gy/1000017
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="A1xmedia - UK Channels",iTV1 FHD
 https://xemzi.short.gy/1000011
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="iTV2 FHD" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="A1xmedia - UK Channels",iTV2 FHD
-https://xemzi.short.gy/1000012
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="iTV3 FHD" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="A1xmedia - UK Channels",iTV3 FHD
 https://xemzi.short.gy/1000013
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-family.png" group-title="A1xmedia - UK Channels",Sky Cinema Family FHD
