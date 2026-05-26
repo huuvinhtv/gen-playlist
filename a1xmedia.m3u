@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-05-26 09:40:58 PM
-# 📺 Channels Count : 49
+# 🕒 Last Updated: 2026-05-26 11:06:25 PM
+# 📺 Channels Count : 51
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -10,6 +10,8 @@ https://xemzi.short.gy/610005
 https://xemzi.short.gy/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport 4 FHD
 https://xemzi.short.gy/140004
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport FHD
+https://xemzi.short.gy/140001
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="A1xmedia - NZ Sports",SKY Sport 4 NZ
 https://xemzi.short.gy/700034
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="A1xmedia - NZ Sports",SKY Sport 7 NZ
@@ -18,8 +20,6 @@ https://xemzi.short.gy/700037
 https://xemzi.short.gy/lovent4k
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://i.ibb.co/mVWdZyRH/V-sport-ultra-hd.png" group-title="A1xmedia - UHD | 4K",SE: V Sport Ultra HD
 https://xemzi.short.gy/9000013
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia - UHD | 4K",UK: TNT Sports Ultimate UHD
-https://xemzi.short.gy/2000031
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.ibb.co/zTrX98R6/BBC-News.png" group-title="A1xmedia - UK Channels",BBC News FHD
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia - UK Channels",BBC One FHD
@@ -28,8 +28,6 @@ https://xemzi.short.gy/1000001
 https://xemzi.short.gy/1000002
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="A1xmedia - UK Channels",Channel 5 FHD
 https://xemzi.short.gy/1000030
-#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="A1xmedia - UK Channels",Discovery Channel FHD
-https://xemzi.short.gy/1000033
 #EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News" tvg-logo="https://i.ibb.co/9Hk8HRRH/GB-News.png" group-title="A1xmedia - UK Channels",GB News FHD
 https://xemzi.short.gy/1000017
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="A1xmedia - UK Channels",iTV1 FHD
@@ -46,6 +44,8 @@ https://xemzi.short.gy/1000018
 https://xemzi.short.gy/2000011
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="A1xmedia - UK Sports",Sky Sports Cricket FHD
 https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="A1xmedia - UK Sports",Sky Sports F1 FHD
+https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="A1xmedia - UK Sports",Sky Sports Football FHD
 https://xemzi.short.gy/2000003
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="A1xmedia - UK Sports",Sky Sports Golf FHD
@@ -60,6 +60,8 @@ https://xemzi.short.gy/2000002
 https://xemzi.short.gy/2000021
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="A1xmedia - UK Sports",TNT Sports 2 FHD
 https://xemzi.short.gy/2000022
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="A1xmedia - UK Sports",TNT Sports 4 FHD
+https://xemzi.short.gy/2000024
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="A1xmedia - US Channels",Animal Planet FHD
 https://xemzi.short.gy/300035
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network FHD" tvg-logo="https://i.ibb.co/MysF1z2Z/cartoon-network.png" group-title="A1xmedia - US Channels",Cartoon Network FHD
@@ -100,5 +102,7 @@ https://xemzi.short.gy/4000001
 https://xemzi.short.gy/40000031
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC ESPN Network HD" tvg-logo="https://i.ibb.co/7dLrMH7Z/sec-network.png" group-title="A1xmedia - US Sports",SEC Network HD
 https://xemzi.short.gy/40000015
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://i.ibb.co/zWqXTsyn/Star-select1.png" group-title="A1xmedia - World Sports",Star Sports Select 1 FHD
+https://xemzi.short.gy/8000011
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://i.ibb.co/M597crs8/Star-select2.png" group-title="A1xmedia - World Sports",Star Sports Select 2 FHD
 https://xemzi.short.gy/8000012
