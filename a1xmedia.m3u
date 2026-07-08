@@ -1,6 +1,6 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-07-07 10:57:16 PM
+# 🕒 Last Updated: 2026-07-08 02:21:46 AM
 # 📺 Channels Count : 48
 #==================================
 #EXTM3U
@@ -86,6 +86,8 @@ https://xemzi.short.gy/4000009
 https://xemzi.short.gy/4000007
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" group-title="A1xmedia - US Sports",ESPN HD
 https://xemzi.short.gy/40000011
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News HD" tvg-logo="https://i.ibb.co/qSGNtmT/ESPNews.png" group-title="A1xmedia - US Sports",ESPN News HD
+https://xemzi.short.gy/40000014
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.ibb.co/WvXmTS8M/ESPNU.png" group-title="A1xmedia - US Sports",ESPNU HD
 https://xemzi.short.gy/40000013
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.HDTV.us" tvg-name="FanDuel Sports North" tvg-logo="https://i.ibb.co/svNW0ZXz/Fan-Duel-North.png" group-title="A1xmedia - US Sports",FanDuel Sports North
@@ -98,5 +100,3 @@ https://xemzi.short.gy/40000031
 https://xemzi.short.gy/40000015
 #EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://i.ibb.co/zWqXTsyn/Star-select1.png" group-title="A1xmedia - World Sports",Star Sports Select 1 FHD
 https://xemzi.short.gy/8000011
-#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://i.ibb.co/M597crs8/Star-select2.png" group-title="A1xmedia - World Sports",Star Sports Select 2 FHD
-https://xemzi.short.gy/8000012
