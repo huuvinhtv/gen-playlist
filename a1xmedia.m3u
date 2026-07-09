@@ -1,6 +1,6 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-07-09 02:34:58 AM
+# 🕒 Last Updated: 2026-07-09 07:33:43 AM
 # 📺 Channels Count : 57
 #==================================
 #EXTM3U
@@ -38,6 +38,8 @@ https://xemzi.short.gy/700037
 https://xemzi.short.gy/lovent4k
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://i.ibb.co/mVWdZyRH/V-sport-ultra-hd.png" group-title="A1xmedia - UHD | 4K",SE: V Sport Ultra HD
 https://xemzi.short.gy/9000013
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia - UHD | 4K",UK: TNT Sports Ultimate UHD
+https://xemzi.short.gy/2000031
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.ibb.co/zTrX98R6/BBC-News.png" group-title="A1xmedia - UK Channels",BBC News FHD
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia - UK Channels",BBC One FHD
@@ -72,8 +74,6 @@ https://xemzi.short.gy/2000003
 https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="A1xmedia - UK Sports",Sky Sports Main Event FHD
 https://xemzi.short.gy/2000001
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="A1xmedia - UK Sports",Sky Sports Mix FHD
-https://xemzi.short.gy/2000008
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="A1xmedia - UK Sports",Sky Sports Premier League FHD
 https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="A1xmedia - UK Sports",Sky Sports Racing FHD
