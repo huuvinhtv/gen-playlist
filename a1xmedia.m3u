@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-07-16 08:52:56 PM
-# 📺 Channels Count : 56
+# 🕒 Last Updated: 2026-07-17 02:14:26 AM
+# 📺 Channels Count : 55
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -14,8 +14,6 @@ https://xemzi.short.gy/140003
 https://xemzi.short.gy/140004
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="A1xmedia - EU Sports",NL: Ziggo Sport FHD
 https://xemzi.short.gy/140001
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="A1xmedia - Live Event | PPV",Live Event 8
-https://xemzi.short.gy/ppv8
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="A1xmedia - NZ Sports",SKY Sport 1 NZ
 https://xemzi.short.gy/700031
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="A1xmedia - NZ Sports",SKY Sport 2 NZ
@@ -34,6 +32,8 @@ https://xemzi.short.gy/700037
 https://xemzi.short.gy/lovent4k
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://i.ibb.co/mVWdZyRH/V-sport-ultra-hd.png" group-title="A1xmedia - UHD | 4K",SE: V Sport Ultra HD
 https://xemzi.short.gy/9000013
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia - UHD | 4K",UK: TNT Sports Ultimate UHD
+https://xemzi.short.gy/2000031
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.ibb.co/zTrX98R6/BBC-News.png" group-title="A1xmedia - UK Channels",BBC News FHD
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia - UK Channels",BBC One FHD
@@ -82,8 +82,6 @@ https://xemzi.short.gy/300035
 https://xemzi.short.gy/300032
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/BV8M6ddb/Cbs.webp" group-title="A1xmedia - US Channels",CBS
 https://xemzi.short.gy/300010
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/XxMdyzfD/cnbc.png" group-title="A1xmedia - US Channels",CNBC
-https://xemzi.short.gy/300009
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="A1xmedia - US Channels",Discovery Channel FHD
 https://xemzi.short.gy/300034
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://i.ibb.co/ZRYY8B4p/fxx.png" group-title="A1xmedia - US Channels",FXX
