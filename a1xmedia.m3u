@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-07-19 06:26:33 AM
-# 📺 Channels Count : 55
+# 🕒 Last Updated: 2026-07-19 09:48:29 AM
+# 📺 Channels Count : 51
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -68,8 +68,6 @@ https://xemzi.short.gy/2000003
 https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="A1xmedia - UK Sports",Sky Sports Main Event FHD
 https://xemzi.short.gy/2000001
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="A1xmedia - UK Sports",Sky Sports Mix FHD
-https://xemzi.short.gy/2000008
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="A1xmedia - UK Sports",Sky Sports Premier League FHD
 https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="A1xmedia - UK Sports",Sky Sports Racing FHD
@@ -80,8 +78,6 @@ https://xemzi.short.gy/300035
 https://xemzi.short.gy/300032
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/BV8M6ddb/Cbs.webp" group-title="A1xmedia - US Channels",CBS
 https://xemzi.short.gy/300010
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/XxMdyzfD/cnbc.png" group-title="A1xmedia - US Channels",CNBC
-https://xemzi.short.gy/300009
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="A1xmedia - US Channels",Discovery Channel FHD
 https://xemzi.short.gy/300034
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://i.ibb.co/ZRYY8B4p/fxx.png" group-title="A1xmedia - US Channels",FXX
@@ -96,10 +92,6 @@ https://xemzi.short.gy/300002
 https://xemzi.short.gy/4000009
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://i.ibb.co/W4NhZyPw/CBS-Sports-HQ.png" group-title="A1xmedia - US Sports",CBS Sports HQ FHD
 https://xemzi.short.gy/4000007
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" group-title="A1xmedia - US Sports",ESPN HD
-https://xemzi.short.gy/40000011
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News HD" tvg-logo="https://i.ibb.co/qSGNtmT/ESPNews.png" group-title="A1xmedia - US Sports",ESPN News HD
-https://xemzi.short.gy/40000014
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.ibb.co/WvXmTS8M/ESPNU.png" group-title="A1xmedia - US Sports",ESPNU HD
 https://xemzi.short.gy/40000013
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.HDTV.us" tvg-name="FanDuel Sports North" tvg-logo="https://i.ibb.co/svNW0ZXz/Fan-Duel-North.png" group-title="A1xmedia - US Sports",FanDuel Sports North
