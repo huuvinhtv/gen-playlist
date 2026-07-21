@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-07-21 06:24:51 AM
-# 📺 Channels Count : 55
+# 🕒 Last Updated: 2026-07-21 10:21:58 AM
+# 📺 Channels Count : 53
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -70,8 +70,6 @@ https://xemzi.short.gy/2000012
 https://xemzi.short.gy/2000003
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="A1xmedia - UK Sports",Sky Sports Golf FHD
 https://xemzi.short.gy/2000009
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="A1xmedia - UK Sports",Sky Sports Main Event FHD
-https://xemzi.short.gy/2000001
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="A1xmedia - UK Sports",Sky Sports Mix FHD
 https://xemzi.short.gy/2000008
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="A1xmedia - UK Sports",Sky Sports Premier League FHD
@@ -106,8 +104,6 @@ https://xemzi.short.gy/40000013
 https://xemzi.short.gy/4000057
 #EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="A1xmedia - US Sports",MSG FHD
 https://xemzi.short.gy/4000001
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/ccZmV9J0/NBATV.png" group-title="A1xmedia - US Sports",NBA TV
-https://xemzi.short.gy/40000031
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC ESPN Network HD" tvg-logo="https://i.ibb.co/7dLrMH7Z/sec-network.png" group-title="A1xmedia - US Sports",SEC Network HD
 https://xemzi.short.gy/40000015
 #EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://i.ibb.co/zWqXTsyn/Star-select1.png" group-title="A1xmedia - World Sports",Star Sports Select 1 FHD
