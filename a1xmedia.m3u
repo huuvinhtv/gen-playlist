@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-08-01 02:26:26 AM
-# 📺 Channels Count : 58
+# 🕒 Last Updated: 2026-08-01 06:24:40 AM
+# 📺 Channels Count : 59
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -10,6 +10,8 @@ https://xemzi.short.gy/610005
 https://xemzi.short.gy/6000001
 #EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="A1xmedia - CA Sports",TSN2
 https://xemzi.short.gy/6000002
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN3" tvg-logo="https://i.ibb.co/0RMWTVX5/TSN3.png" group-title="A1xmedia - CA Sports",TSN3
+https://xemzi.short.gy/6000003
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="A1xmedia - CA Sports",TSN4
 https://xemzi.short.gy/6000004
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="A1xmedia - CA Sports",TSN5
@@ -84,12 +86,12 @@ https://xemzi.short.gy/300009
 https://xemzi.short.gy/300007
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="A1xmedia - US Channels",Discovery Channel FHD
 https://xemzi.short.gy/300034
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/q3WPc2RY/2014-Disney-Channel.png" group-title="A1xmedia - US Channels",Disney Channel
+https://xemzi.short.gy/300037
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Jr." tvg-logo="https://i.ibb.co/dJBVkHgg/2024-Disney-Jr.png" group-title="A1xmedia - US Channels",Disney Junior
 https://xemzi.short.gy/300036
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://i.ibb.co/ZRYY8B4p/fxx.png" group-title="A1xmedia - US Channels",FXX
 https://xemzi.short.gy/300006
-#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MSNBC FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/MS-NOW.png" group-title="A1xmedia - US Channels",MS NOW
-https://xemzi.short.gy/300008
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="NewsMax" tvg-logo="https://i.ibb.co/bMksM5z0/Newsmax.png" group-title="A1xmedia - US Channels",NewsMax
 https://xemzi.short.gy/300012
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon FHD" tvg-logo="https://i.ibb.co/VY3Cy8p8/Nickelodeon.png" group-title="A1xmedia - US Channels",Nickelodeon FHD
