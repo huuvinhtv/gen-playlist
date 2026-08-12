@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-08-12 02:52:47 PM
-# 📺 Channels Count : 40
+# 🕒 Last Updated: 2026-08-12 04:53:23 PM
+# 📺 Channels Count : 39
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -14,8 +14,6 @@ https://xemzi.short.gy/6000002
 https://xemzi.short.gy/6000003
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="A1xmedia - CA Sports",TSN4
 https://xemzi.short.gy/6000004
-#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="A1xmedia - CA Sports",TSN5
-https://xemzi.short.gy/6000005
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="A1xmedia - Live Event | PPV",Live Event 1
 https://xemzi.short.gy/ppv1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="A1xmedia - Live Event | PPV",Live Event 3
