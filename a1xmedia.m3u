@@ -1,15 +1,11 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-08-23 08:23:51 AM
-# 📺 Channels Count : 36
+# 🕒 Last Updated: 2026-08-23 10:18:56 AM
+# 📺 Channels Count : 34
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
 https://xemzi.short.gy/610005
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png" group-title="A1xmedia - EPL",Astro Premier League
-https://xemzi.short.gy/1100030
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro Premier League 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png" group-title="A1xmedia - EPL",Astro Premier League 2
-https://xemzi.short.gy/1100031
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="A1xmedia - Live Event | PPV",Live Event 1
 https://xemzi.short.gy/ppv1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="A1xmedia - Live Event | PPV",Live Event 3
