@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-08-26 01:02:22 AM
-# 📺 Channels Count : 29
+# 🕒 Last Updated: 2026-08-26 03:00:00 AM
+# 📺 Channels Count : 28
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -28,16 +28,14 @@ https://xemzi.short.gy/2000005
 https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="A1xmedia - UK Sports",TNT Sports 1 FHD
 https://xemzi.short.gy/2000021
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="A1xmedia - UK Sports",TNT Sports 2 FHD
-https://xemzi.short.gy/2000022
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="A1xmedia - UK Sports",TNT Sports 4 FHD
-https://xemzi.short.gy/2000024
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="A1xmedia - US Channels",Animal Planet FHD
 https://xemzi.short.gy/300035
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network FHD" tvg-logo="https://i.ibb.co/MysF1z2Z/cartoon-network.png" group-title="A1xmedia - US Channels",Cartoon Network FHD
 https://xemzi.short.gy/300032
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/BV8M6ddb/Cbs.webp" group-title="A1xmedia - US Channels",CBS
 https://xemzi.short.gy/300010
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="A1xmedia - US Channels",Discovery Channel FHD
+https://xemzi.short.gy/300034
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://i.ibb.co/ZRYY8B4p/fxx.png" group-title="A1xmedia - US Channels",FXX
 https://xemzi.short.gy/300006
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="NewsMax" tvg-logo="https://i.ibb.co/bMksM5z0/Newsmax.png" group-title="A1xmedia - US Channels",NewsMax
