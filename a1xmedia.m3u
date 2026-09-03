@@ -1,7 +1,7 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-09-03 08:30:01 AM
-# 📺 Channels Count : 39
+# 🕒 Last Updated: 2026-09-03 02:04:47 PM
+# 📺 Channels Count : 41
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-name="Global News" tvg-logo="https://i.ibb.co/1GSRMzh1/GLB-News.png" group-title="A1xmedia - CA Channels",Global News
@@ -48,6 +48,10 @@ https://xemzi.short.gy/210007
 https://xemzi.short.gy/1000018
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="A1xmedia - UK Sports",Sky Sports Action FHD
 https://xemzi.short.gy/2000011
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="A1xmedia - UK Sports",Sky Sports Main Event FHD
+https://xemzi.short.gy/2000001
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="A1xmedia - UK Sports",Sky Sports Premier League FHD
+https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" tvg-name="ABC" tvg-logo="https://i.ibb.co/1Jj28D3T/abc.png" group-title="A1xmedia - US Channels",ABC
 https://xemzi.short.gy/300003
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="A1xmedia - US Channels",Animal Planet FHD
