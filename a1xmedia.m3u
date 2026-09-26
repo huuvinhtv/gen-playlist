@@ -1,6 +1,6 @@
 #=================================
 # 📡 IPTV A1Xmedia Channels
-# 🕒 Last Updated: 2026-09-26 09:01:47 AM
+# 🕒 Last Updated: 2026-09-26 02:01:55 PM
 # 📺 Channels Count : 39
 #==================================
 #EXTM3U
@@ -24,8 +24,8 @@ https://xemzi.short.gy/6000003
 https://xemzi.short.gy/6000004
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="A1xmedia - CA Sports",TSN5
 https://xemzi.short.gy/6000005
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="A1xmedia - EPL",Hub Premier 1 FHD
-https://xemzi.short.gy/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="A1xmedia - EPL",Hub Premier 2 FHD
+https://xemzi.short.gy/1100042
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="A1xmedia - EPL",Hub Premier 3 FHD
 https://xemzi.short.gy/1100043
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="A1xmedia - EPL",Hub Premier 4 FHD
